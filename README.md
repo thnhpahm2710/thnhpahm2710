@@ -15,9 +15,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
-## 📊 GitHub Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thnhpam2710&show_icons=true&theme=radical&hide_border=true&count_private=true)]
-(https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thnhpahm2710&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thnhpahm2710&layout=compact&theme=radical&hide_border=true&langs_count=8)]
 (https://github.com/anuraghazra/github-readme-stats)
 <!--
