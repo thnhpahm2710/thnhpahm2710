@@ -1,4 +1,7 @@
-## 👋 About me
+## 💫 About me
+*   🔭 I’m currently working on HIT-HAUI
+*   🌱 I’m currently learning Java Web and Cyber Security
+*   📫 You can contact me at: 0376616774 || [thnhpahm2710@gmail.com](mailto:thnhpahm@gmail.com)
 
 <!--
 **thnhpahm2710/thnhpahm2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
