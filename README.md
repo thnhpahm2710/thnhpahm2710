@@ -2,10 +2,8 @@
 *   🔭 I’m currently working on HIT-HAUI
 *   🌱 I’m currently learning Java Web and Cyber Security
 *   📫 You can contact me at: 0376616774 || [thnhpahm2710@gmail.com](mailto:thnhpahm@gmail.com)
-
 ### 🌐 Socials
 [![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/thnhpahm2710)
-
 ### 💻 Tech Stack
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
