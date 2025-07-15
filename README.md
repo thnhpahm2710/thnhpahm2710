@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thành Phạm</h1>
 <h3 align="center">💻 A passionate student learning Java Web & Cyber Security</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Currently+learning+Java+Web+%26+Cyber+Security;Have+a+great+day!+😊" alt="Typing SVG" />
-</p>
 
 ## 📝 About Me
 - 🌿 I’m currently working on **HIT-HAUI**
@@ -44,6 +41,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=thnhpahm2710&theme=radical&margin-w=15&no-frame=true" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+See+you+again!+❤️" alt="Typing SVG" />
-</p>
