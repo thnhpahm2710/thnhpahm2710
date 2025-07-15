@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thành Phạm</h1>
 <h3 align="center">💻 A passionate student learning Java Web & Cyber Security</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Currently+learning+Java+Web+%26+Security;Love+Clean+Architecture+%2F+DDD+%2F+Backend" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 💫 **About Me**
