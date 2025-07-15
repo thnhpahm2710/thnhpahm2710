@@ -58,8 +58,5 @@
 ---
 
 <h3 align="center">Thanks for visiting ❤️</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Have+a+great+day!+😊" alt="Typing SVG" />
-</p>
 
 
