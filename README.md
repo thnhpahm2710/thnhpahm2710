@@ -16,9 +16,11 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 ### 📊 GitHub Stats :
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thnhpahm2710&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thnhpahm2710&layout=compact&theme=radical&hide_border=true&langs_count=8)]
-(https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thnhpahm2710&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **thnhpahm2710/thnhpahm2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
