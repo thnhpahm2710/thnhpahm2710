@@ -4,6 +4,7 @@
 *   📫 You can contact me at: 0376616774 || [thnhpahm2710@gmail.com](mailto:thnhpahm@gmail.com)
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/thnhpahm2710)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://www.instagram.com/thnhpahm2710](https://www.instagram.com/gloucester.or.keo/))
 ## 💻 Tech Stack
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
