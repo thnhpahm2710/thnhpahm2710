@@ -28,12 +28,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://thnhpahm2710.vercel.app/api?username=thnhpahm2710&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <br>
-  <img src="https://thnhpahm2710.vercel.app/api/top-langs/?username=thnhpahm2710&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thnhpahm2710&theme=radical&hide_border=true" />
 </p>
 
