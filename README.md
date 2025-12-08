@@ -31,11 +31,12 @@
 </p>
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thnhpahm2710&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thnhpahm2710&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thnhpahm2710&theme=radical&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thnhpahm2710&theme=dark&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
