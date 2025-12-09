@@ -32,6 +32,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thnhpahm2710&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thnhpahm2710&theme=dark&margin-w=15&no-frame=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thnhpahm2710&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thnhpahm2710&theme=dark&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+</div>
 
