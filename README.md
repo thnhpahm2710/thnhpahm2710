@@ -33,10 +33,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.herokuapp.com/api?username=thnhpahm2710&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thnhpahm2710&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
